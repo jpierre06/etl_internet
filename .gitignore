@@ -11,19 +11,3 @@ logs/
 # ignorar arquivos de configuração
 scripts/config/
 
-# ignorar pasta de imagens
-images/
-
-# ignorar pasta outros
-outros/
-
-# ignorar pasta weka
-weka/
-
-# ignorar arquivo de workspace R
-.RData
-
-# ignorar arquivo de histórico R
-.Rhistory
-
-
